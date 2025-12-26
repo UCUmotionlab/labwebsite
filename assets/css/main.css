@@ -583,6 +583,65 @@ figcaption {
   margin-bottom: 1.5rem;
 }
 
+/* Collaborators */
+.collaborators-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.collaborator-card {
+  display: flex;
+  gap: 1rem;
+  padding: 1.5rem;
+  background: var(--background-alt);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  transition: all 0.2s;
+}
+
+.collaborator-card:hover {
+  border-color: var(--primary);
+}
+
+.collaborator-logo {
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.collaborator-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.collaborator-info h4 {
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.collaborator-info h4 a {
+  color: var(--primary);
+}
+
+.collaborator-info .institution {
+  font-size: 0.875rem;
+  color: var(--secondary);
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.collaborator-info .description {
+  font-size: 0.875rem;
+  color: var(--text-light);
+  margin: 0;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   h1 { font-size: 2rem; }

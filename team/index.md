@@ -40,11 +40,9 @@ The Movement Engineering Lab has two principal investigators and collaborators f
 
 ## Collaborators
 
-We collaborate closely with:
+We collaborate closely with these UCU research groups:
 
-- **Artificial Intelligence Group** - Computer vision and machine learning
-- **Microelectronics and IoT Group** - Electronic device development
-- **Physical Therapy Group** (Health Sciences Department) - Clinical rehabilitation
+{% include collaborators.html type="internal" %}
 
 {% include section.html %}
 

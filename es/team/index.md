@@ -40,11 +40,9 @@ El grupo de Ingeniería del Movimiento cuenta con dos investigadores principales
 
 ## Colaboradores
 
-Colaboramos estrechamente con:
+Colaboramos estrechamente con estos grupos de investigación de la UCU:
 
-- **Grupo de Inteligencia Artificial** - Visión por computadora y aprendizaje automático
-- **Grupo de Microelectrónica e IoT** - Desarrollo de dispositivos electrónicos
-- **Grupo de Terapia Física** (Departamento de Ciencias de la Salud) - Rehabilitación clínica
+{% include collaborators.html type="internal" %}
 
 {% include section.html %}
 
