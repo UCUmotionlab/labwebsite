@@ -12,3 +12,14 @@ CVUY: https://export.cvuy.uy/cvsni/?urlId=cc83bb1583757518ae60fff0f7728caf11ddb7
 Email: enrique.ferreira@ucu.edu.uy
 Orcid: 0000-0002-6506-9477  
 web institucional: https://investigadores.ucu.edu.uy/es/persons/enrique-d-ferreira/
+
+## Hamlet Suárez
+CVUY: https://exportcvuy.anii.org.uy/CvEstatico/?urlId=6f4448f9663e9fe6311a57cec481c636e092aa19a572ad2a2888413510a82d5444fcfe75b767b6aeb3070fe1b1402f46b5481e80a802bc4366bada25880a227f&formato=pdf&convocatoria=21
+
+## Melissa Imbert
+Former student
+CVUY: https://export.cvuy.uy/cv/?20fe26a8d08b28bb1c5c2b0d9ae730f1
+
+## Juan Gandolfo
+Former student
+CVUY: https://export.cvuy.uy/cv/?83ab92e38fa102d213df1b250086a423
