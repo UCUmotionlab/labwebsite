@@ -4,7 +4,7 @@ nav_title: Contact
 lang: en
 ref: contact
 nav:
-  order: 3
+  order: 4
   tooltip: How to reach us
 ---
 

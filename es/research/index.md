@@ -47,3 +47,9 @@ Desarrollamos tecnologías para la captura, registro y análisis del movimiento,
 - **Procesamiento avanzado de datos:** Desarrollamos técnicas avanzadas para el análisis de señales de movimiento de diversas modalidades mediante modelos bayesianos, análisis en tiempo y frecuencia, y enfoques de inteligencia artificial.
 
 {% include tags.html tags="visión por computadora, procesamiento de señales, IA, electrónica" %}
+
+{% include section.html %}
+
+## Proyectos
+
+{% include list.html data="projects" component="card" %}

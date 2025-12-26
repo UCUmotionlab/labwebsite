@@ -4,7 +4,7 @@ nav_title: Contacto
 lang: es
 ref: contact
 nav:
-  order: 3
+  order: 4
   tooltip: Cómo contactarnos
 ---
 

@@ -4,7 +4,7 @@ nav_title: Equipo
 lang: es
 ref: team
 nav:
-  order: 2
+  order: 3
   tooltip: Conozca nuestro equipo
 ---
 

@@ -47,3 +47,9 @@ We develop technologies for capturing, recording, and analyzing movement, with t
 - **Advanced data processing:** We develop advanced techniques for analyzing movement signals from various modalities using Bayesian models, time-frequency analysis, and artificial intelligence approaches.
 
 {% include tags.html tags="computer vision, signal processing, AI, electronics" %}
+
+{% include section.html %}
+
+## Projects
+
+{% include list.html data="projects" component="card" %}
