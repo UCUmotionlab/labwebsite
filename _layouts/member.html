@@ -19,7 +19,9 @@ layout: default
       {% if page.links %}
       <div class="member-links">
         {% for link in page.links %}
-        {% include link-button.html type=link[0] link=link[1] %}
+          {% assign link_type = link[0] %}
+          {% assign link_value = link[1] %}
+          {% include link-button.html type=link_type link=link_value %}
         {% endfor %}
       </div>
       {% endif %}
